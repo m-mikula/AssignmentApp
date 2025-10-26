@@ -1,0 +1,79 @@
+{
+    "formTextFields": [
+        {
+            "id": "3CF45B38-5094-434B-8284-805066FE5237",
+            "titleTextAttributes": {
+                "text": "First input",
+                "fontSize": 10,
+                "fontColorHex": "#333333"
+            },
+            "placeholderTextAttributes": {
+                "text": "Placeholder 1",
+                "fontSize": 14,
+                "fontColorHex": "#000000"
+            }
+        },
+        {
+            "id": "C1C704DA-61F8-4B99-9D50-D0D6C6975983",
+            "titleTextAttributes": {
+                "text": "Second input",
+                "fontSize": 10,
+                "fontColorHex": "#333333"
+            },
+            "placeholderTextAttributes": {
+                "text": "Placeholder 2",
+                "fontSize": 14,
+                "fontColorHex": "#000000"
+            }
+        },
+        {
+            "id": "129A0C21-C18D-4852-B9E6-02F366F4F6F0",
+            "titleTextAttributes": {
+                "text": "Third input",
+                "fontSize": 10,
+                "fontColorHex": "#333333"
+            },
+            "placeholderTextAttributes": {
+                "text": "Placeholder 3",
+                "fontSize": 14,
+                "fontColorHex": "#000000"
+            }
+        },
+        {
+            "id": "E52A0370-7054-458D-9483-D30B6B464DFA",
+            "titleTextAttributes": {
+                "text": "Fourth input",
+                "fontSize": 10,
+                "fontColorHex": "#333333"
+            },
+            "placeholderTextAttributes": {
+                "text": "Placeholder 4",
+                "fontSize": 14,
+                "fontColorHex": "#000000"
+            }
+        },
+        {
+            "id": "2A7ABE99-1F28-4B93-938A-5B7C08091C10",
+            "titleTextAttributes": {
+                "text": "Fifth input",
+                "fontSize": 10,
+                "fontColorHex": "#333333"
+            },
+            "placeholderTextAttributes": {
+                "text": "Placeholder 5",
+                "fontSize": 14,
+                "fontColorHex": "#000000"
+            }
+        }
+    ],
+    "formSubmitButton": {
+        "titleTextAttributes": {
+            "text": "Submit form",
+            "fontSize": 17,
+            "fontColorHex": "#FFFFFF"
+        }
+    },
+    "formBackground": {
+        "colorHex": "#89BCFF"
+    }
+}
